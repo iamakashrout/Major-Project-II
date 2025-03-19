@@ -1,0 +1,7 @@
+
+path: /kaggle/working
+train: train
+val: test  # Using train as validation for now
+test: test
+names:
+  0: object
